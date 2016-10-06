@@ -1,17 +1,19 @@
 Programmable Voice: Quickstart Application Server - Python
 ===
-This repository contains the server-side web application required to run the [Twilio Programmable Voice SDK Quickstart](https://www.twilio.com/docs/api/voice-sdk/ios/getting-started) mobile sample apps, written in Python. 
+This repository contains a server-side web application written in Python. It is required to run the Quickstart mobile sample apps referenced in the Getting Started guides for the [Twilio Programmable Voice SDK](https://www.twilio.com/docs/api/voice-sdk/): 
+- [Getting Started Guide - iOS](https://www.twilio.com/docs/api/voice-sdk/ios/getting-started)
+- [Getting Started - Android](https://www.twilio.com/docs/api/voice-sdk/android/getting-started)
 
-Looking for the Quickstart mobile app? Download the client-side Quickstart Applications in Swift and iOS here:
+Looking for the Quickstart mobile app? Download the client-side Quickstart application code here:
 
 - [Swift Quickstart Mobile App](https://github.com/twilio/voice-quickstart-swift)
 - [Objective-C Quickstart Mobile App](https://github.com/twilio/voice-quickstart-objc)
+- [Android Quickstart Mobile App](https://github.com/twilio/voice-quickstart-android)
 
 Prerequisites
 ---
 
 * A Twilio Acccount. Don't have one? [Sign up](https://www.twilio.com/try-twilio) for free! 
-* Follow the [full quickstart tutorial here](https://www.twilio.com/docs/api/voice-sdk/ios/getting-started).
 
 Up and running
 ---
@@ -57,4 +59,8 @@ Test your app by opening the `/accessToken` endpoint in your browser (use the pu
 Confused?
 ---
 
-Read through the instructions in the [Getting Started](https://www.twilio.com/docs/api/voice-sdk/ios/getting-started) guide. Still having trouble? [Email us and we'll give you a hand.](mailto:help@twilio.com)
+Read through the instructions in the Getting Started guides:
+- [Getting Started Guide - iOS](https://www.twilio.com/docs/api/voice-sdk/ios/getting-started)
+- [Getting Started - Android](https://www.twilio.com/docs/api/voice-sdk/android/getting-started)
+
+Still having trouble? [Email us and we'll give you a hand.](mailto:help@twilio.com)
