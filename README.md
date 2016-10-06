@@ -6,9 +6,9 @@ This repository contains a server-side web application written in Python. It is 
 
 Looking for the Quickstart mobile app? Download the client-side Quickstart application code here:
 
-- [Swift Quickstart Mobile App](https://github.com/twilio/voice-quickstart-swift)
-- [Objective-C Quickstart Mobile App](https://github.com/twilio/voice-quickstart-objc)
-- [Android Quickstart Mobile App](https://github.com/twilio/voice-quickstart-android)
+- [Quickstart Mobile App - Swift](https://github.com/twilio/voice-quickstart-swift)
+- [Quickstart Mobile App - Objective-C](https://github.com/twilio/voice-quickstart-objc)
+- [Quickstart Mobile App - Android](https://github.com/twilio/voice-quickstart-android)
 
 Prerequisites
 ---
